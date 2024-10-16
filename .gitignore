@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+#idea
+.idea/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.log
+# *.csv
+# *.xlsx
+# *.xls
+*.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+tmp/
+temp/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+
+# Pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
