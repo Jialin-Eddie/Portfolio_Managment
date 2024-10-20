@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *.so
 
+main.ipynb
+main.html
+
+
 #idea
 .idea/
 
