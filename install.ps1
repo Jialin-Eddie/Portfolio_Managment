@@ -1,1 +1,5 @@
-ECHO ´¦ÓÚ´ò¿ª×´Ì¬¡£
+ECHO ï¿½ï¿½ï¿½Ú´ï¿½×´Ì¬ï¿½ï¿½
+
+cd to workspace
+.\.venv\Scripts\activate
+pip install -r requirements.txt

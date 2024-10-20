@@ -6,6 +6,12 @@ __pycache__/
 #idea
 .idea/
 
+#ref
+reference/
+
+#backup_code
+backup_code/
+
 # Virtual Environment
 .venv/
 venv/

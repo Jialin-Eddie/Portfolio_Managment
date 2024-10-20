@@ -37,5 +37,11 @@ def load_data(file_name: str, start_row: int = 0):
     
     return data
 
+def output_print():
+    return "this is helper"
+
+if __name__ == "__main__":
+    print(" Hello World")
+
 
 

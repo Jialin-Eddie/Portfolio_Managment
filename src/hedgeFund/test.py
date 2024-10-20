@@ -11,19 +11,18 @@ def change_to_inputFolder():
     grandparent_dir = os.path.dirname(os.path.dirname(script_dir))
     # Specify the target folder in the grandparent directory
     target_folder = os.path.join(grandparent_dir, 'input')
+    print("in the test")
     print(os.listdir(target_folder))
     return target_folder
     # current_path = os.getcwd()
     # input_path = os.path.join(current_path, 'input')
     # os.chdir()
 
-def load_data():
-    target_folder = change_to_inputFolder()
-    
-    # data = pd.read_csv(os.path.join(target_folder)) 
-    # for file in os.listdir(target_folder)
-    
-    return data
 
-change_to_inputFolder()
+# src/.helper/test.py
+def greet():
+    return "Hello from test.py!"
+
+if __name__ == "__main__":
+    print(greet())
 
