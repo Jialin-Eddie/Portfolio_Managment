@@ -1,4 +1,5 @@
 # Portfolio Management Project
+### contact email: jialin.zhao@fs-students.de
 
 ## Description
 [Add a brief description of your portfolio management project here.]
