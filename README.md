@@ -12,7 +12,7 @@ Before starting the project, you need to activate the virtual environment:
 1. Open PowerShell
 2. Run the following command:
    ```bash
-   e:/zhaoj/download/workSpace/.venv/Scripts/Activate
+   .venv/Scripts/Activate
    ```
    Alternatively, you can use `Ctrl + Shift + P` in VS Code to set up the Python interpreter.
 
@@ -22,7 +22,7 @@ When using a virtual environment, follow these steps:
 
 1. First, run the following command in the terminal:
    ```bash
-   python .\src\chatGPT\TestGpt.py
+   python 
    ```
 2. After that, you can use the "Run" button in VS Code.
 
